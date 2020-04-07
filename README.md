@@ -1,6 +1,6 @@
 # Project-Euler-Solution
 
-Problem 3 \n
+Problem 3 
 Problem 9
 Problem 17
 Problen 31
